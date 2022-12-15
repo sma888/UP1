@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FillWord</string>
+    <string name="settingsText">Настройки</string>
+    <string name="startText">Играть</string>
+    <string name="infoText">Справка</string>
+    <string name="statText">Статистика</string>
+    <string name="title_activity_game_fullscreen">GameFullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Info">Программу разработал на ПП.01\nСтудент отделения информационных технологий группы ИС-32\nСитимов Магамет Асланович</string>
+    <string-array name="themesWords">
+        <item>Программист</item>
+        <item>Машина</item>
+        <item>Компьютер</item>
+    </string-array>
+</resources>
